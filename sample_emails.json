@@ -1,0 +1,18 @@
+[
+  {
+    "email": "Hey, our meeting is at 4pm tomorrow. I’ll send the agenda soon.",
+    "expected_category": "Calendar Event"
+  },
+  {
+    "email": "Weekly digest: Top 10 productivity hacks.",
+    "expected_category": "Newsletter"
+  },
+  {
+    "email": "Can you deploy the new feature branch to staging today?",
+    "expected_category": "Actionable Task"
+  },
+  {
+    "email": "Reminder: Your payment for invoice #98521 is overdue.",
+    "expected_category": "Follow-Up Needed"
+  }
+]

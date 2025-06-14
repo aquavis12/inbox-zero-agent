@@ -1,0 +1,7 @@
+{
+  "agent_name": "Inbox Zero Butler",
+  "prompt_file": "prompt.txt",
+  "input_type": "text",
+  "output_type": "structured",
+  "tags": ["email", "NLP", "classification", "productivity"]
+}
