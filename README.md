@@ -5,7 +5,7 @@ A submission for the [Runner H-AI Agent Prompting Challenge](https://dev.to/devt
 ## 🧠 Overview
 This project features an intelligent email-sorting prompt designed for use with the [Runner AI Agent](https://runner.dev). The agent parses raw email content and classifies each email into one of several contextual folders based on **intent**, **urgency**, and **tone** — helping users reach *Inbox Zero* faster.
 
-[](/AI%20Email%20Sorting%20Flowchart.png)
+![](/AI%20Email%20Sorting%20Flowchart.png)
 
 ## 🚀 What It Does
 Given a raw email, the agent:
